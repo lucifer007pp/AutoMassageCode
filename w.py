@@ -1,3 +1,6 @@
+# pip3 install pyautogui -VsCode
+# sudo apt install python3-pip -ubumtu
+
 import pyautogui
 import time 
 time.sleep(3)
